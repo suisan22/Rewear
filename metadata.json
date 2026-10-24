@@ -1,0 +1,6 @@
+{
+  "name": "RentVibe Mumbai — Student Wardrobe & Fest Outfit Exchange",
+  "description": "Gen-Z college dress rental and peer-to-peer clothing exchange platform for Mumbai students (₹300–₹500/day) with campus canteen pickup hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
